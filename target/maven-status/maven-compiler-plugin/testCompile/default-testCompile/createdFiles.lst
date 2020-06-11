@@ -1,0 +1,5 @@
+cucumber\IsItFriday.class
+cucumber\StepDefs.class
+dataprovider\ReminderSendTest.class
+vk\VkLogin.class
+email\EmailLoginTest.class

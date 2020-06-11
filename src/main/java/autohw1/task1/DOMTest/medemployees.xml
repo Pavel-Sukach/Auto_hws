@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hospital>
+    <name>St.Clair</name>
+            <employees>
+                <employee>
+					<firstName>John</firstName>
+					<lastName>Doe</lastName>
+					<position>pediatrician</position>
+					<department>pediatrics</department>
+					<experienceYears>7</experienceYears>
+                </employee>
+				<employee>
+					<firstName>Linda</firstName>
+					<lastName>Smith</lastName>
+					<position>orthopedist</position>
+					<department>orthopedics</department>
+					<experienceYears>11</experienceYears>
+                </employee>
+				<employee>
+					<firstName>Eric</firstName>
+					<lastName>Markovic</lastName>
+					<position>ophthalmologist</position>
+					<department>ophthalmology</department>
+					<experienceYears>21</experienceYears>
+                </employee>
+            </employees>
+</hospital>
