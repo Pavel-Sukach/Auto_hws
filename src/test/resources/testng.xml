@@ -3,7 +3,12 @@
 <suite name="Email testng example">
     <test name="Authorization">
         <classes>
-            <class name="vk.VkLogin"/>
+            <class name="autohw2.vk.VkLogin"/>
+        </classes>
+    </test>
+    <test name="CalculatorCheck">
+        <classes>
+            <class name="autohw2.calculator.CalculatorTest"/>
         </classes>
     </test>
 </suite>
