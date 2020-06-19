@@ -26,11 +26,5 @@ public class Calculator {
     }
 
     public static void main(String[] args) {
-        //Calculator calculator = new Calculator(6, 3);
-        //calculator.addition();
-        //calculator.subtraction();
-        //calculator.multiplication();
-        //calculator.division();
-        //calculator.square();
     }
 }
